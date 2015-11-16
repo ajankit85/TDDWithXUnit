@@ -1,0 +1,16 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+node_modules/
+
+# Local Settings
+packages
+*.csproj.user
+*.sqlproj.user
+*.suo
+*.DotSettings.user
+*.rptproj.user
+*.pubxml.user
